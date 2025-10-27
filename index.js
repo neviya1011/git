@@ -1,5 +1,4 @@
-console.log("Welcome")
-
-for(var i=0;i<5;i++){
-    console.log('Codeio')
+console.log("Welcome Neviya")
+for(var i=0; i<5; i++){
+    console.log("codeio")
 }
